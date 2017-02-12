@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts  
+Configuration 2.1//EN" "http://struts.apache.org/dtds/struts-2.1.dtd">
+<struts>
+
+	<constant name="struts.devMode" value="true" />
+
+	<package name="default" extends="struts-default">
+		<action name="how-to-use">
+			<result>form.jsp</result>
+		</action>
+		<action name="form" class="front.User" method="loginCheck">
+			<result name="success">form.jsp</result>
+			<result name="error">login.jsp</result>
+		</action>
+		<action name="main" class="front.User" method="login">
+			<result name="success">form.jsp</result>
+			<result name="error">login-error.jsp</result>
+		</action>
+		<action name="register" class="front.User" method="register">
+			<result name="success">register-success.jsp</result>
+			<result name="error">register-error.jsp</result>
+		</action>
+		<action name="view_timetable" class="front.TimetableAction"
+			method="fromForm">
+			<result name="success">view.jsp</result>
+		</action>
+		<action name="view-timetable" class="front.TimetableAction"
+			method="fromFile">
+			<result name="success">view.jsp</result>
+		</action>
+		<action name="logout" class="front.User" method="logout">
+			<result>login.jsp</result>
+		</action>
+	</package>
+</struts>
