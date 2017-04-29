@@ -1,5 +1,5 @@
 # **AUTOMATED TIME-TABLE SCHEDULER** *(USING GENETIC ALGORITHMS)*
-
+<div align="center"><h1>AUTOMATED TIME-TABLE SCHEDULER</h1><h2>(USING GENETIC ALGORITHMS)</h2></div>
 ![Preview](/readme-images/preview.png)
 
 ## Introduction
