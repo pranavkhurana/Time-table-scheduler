@@ -81,19 +81,20 @@ You need to load the required jar files to make this project run
   
 ## Test Run
 
-  ### Input
+<center><h3>Input</h3></center>
   
   <img src="/readme-images/input1.png" alt="input1">
   <img src="/readme-images/input2.png" alt="input2">
-  > Input form is made using Ajax and displays as many fields as the no specified.
+> Input form is made using Ajax and displays as many fields as the no specified.
   
-  ### Output
+<center><h3>Output</h3></center>
   <img src="/readme-images/output1.png" alt="out1">
   <img src="/readme-images/output2.png" alt="out2">
   
-  ### Console
-  <img src="/readme-images/console.png" alt="console">
-  > For the ease of testing and tracking, a lot of information is printed on the console itself. It involves input information, slots generated, few chromosomes from each generation of chromosome, fitness of these chromosomes, maximum fitness in a generation and final selected chromosome.
+<center><h3>Console</h3></center>
+> For the ease of testing and tracking, a lot of information is printed on the console itself. It involves input information, slots generated, few chromosomes from each generation of chromosome, fitness of these chromosomes, maximum fitness in a generation and final selected chromosome.
+
+<img src="/readme-images/console.png" alt="console">
 
 ## Author 
 
