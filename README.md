@@ -1,4 +1,4 @@
-<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b><br> (Using Genetic Algorithms)</h1>
+﻿<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b><br> (Using Genetic Algorithms)</h1>
 
 <img alt="preview" src="/readme-images/preview.png" width="65%"></div>
 
@@ -123,4 +123,4 @@ Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple 
 **Pranav Khurana**
 
 
-<i>PS: Documentation (in pdf) is available in root folder as AutomatedTimeTableScheduler.pdf</i>
+<i>PS: Project Report(in pdf) is available in root folder as AutomatedTimeTableScheduler.pdf</i>
