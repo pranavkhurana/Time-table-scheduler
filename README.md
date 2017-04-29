@@ -1,6 +1,6 @@
-<div align="center"><h1>AUTOMATED TIME-TABLE SCHEDULER<small>(USING GENETIC ALGORITHMS)</small></h1>
+<div align="center"><h1>AUTOMATED TIME-TABLE SCHEDULER <h2>(USING GENETIC ALGORITHMS)</h2></h1>
 
-<img alt="preview" src="/readme-images/preview.png" width="50%"></div>
+<img alt="preview" src="/readme-images/preview.png" width="65%"></div>
 
 ## Introduction
 Time Table Scheduling is an NP-hard problem and hence polynomial time verifiable using genetic algorithms. It a typical scheduling problem that appears to be a tedious job in every academic institute once or twice a year. In earlier days, time table scheduling was done manually with a single person or some group involved in task of scheduling it manually, which takes a lot of effort and time. Planning timetables is one of the most complex and error-prone applications.
