@@ -91,5 +91,10 @@ You need to load the required jar files to make this project run
   <img src="/readme-images/output1.png" alt="out1">
   <img src="/readme-images/output2.png" alt="out2">
   
+  ### Console
+  <img src="/readme-images/console.png" alt="console">
+  > For the ease of testing and tracking, a lot of information is printed on the console itself. It involves input information, slots generated, few chromosomes from each generation of chromosome, fitness of these chromosomes, maximum fitness in a generation and final selected chromosome.
+
 ## Author 
+
 **Pranav Khurana**
