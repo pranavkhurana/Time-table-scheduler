@@ -81,21 +81,22 @@ You need to load the required jar files to make this project run
   
 ## Test Run
 
-<center><h3>Input</h3></center>  
+<h3>Input</h3>  
+
+Input form is made using Ajax and displays as many fields as the no specified.
 
 <img src="/readme-images/input1.png" alt="input1">
 
 <img src="/readme-images/input2.png" alt="input2">
 
-Input form is made using Ajax and displays as many fields as the no specified.
   
-<center><h3>Output</h3></center>
+<h3>Output</h3>
 
 <img src="/readme-images/output1.png" alt="out1">
 
 <img src="/readme-images/output2.png" alt="out2">
   
-<center><h3>Console</h3></center>
+<h3>Console</h3>
 
 For the ease of testing and tracking, a lot of information is printed on the console itself. It involves input information, slots generated, few chromosomes from each generation of chromosome, fitness of these chromosomes, maximum fitness in a generation and final selected chromosome.
 
@@ -103,19 +104,18 @@ For the ease of testing and tracking, a lot of information is printed on the con
 
 ## Conclusion and Further Work
 
-  ### Conclusion
+### Conclusion
+The process of Time Table generation has been fully automated with this software. This web app can now cater to multiple colleges, universities and schools which can rely on it for their Time Table scheduling which earlier had to be done by hand.
 
-    The process of Time Table generation has been fully automated with this software. This web app can now cater to multiple colleges, universities and schools which can rely on it for their Time Table scheduling which earlier had to be done by hand.
+### Evaluation
+Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple objectives of the problem, could be obtained very easily. Moreover, each of the obtained solutions has been found much better than a manually prepared solution which is in use.
 
-  ### Evaluation
-    Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple objectives of the problem, could be obtained very easily. Moreover, each of the obtained solutions has been found much better than a manually prepared solution which is in use.
+### Further Work
+•	Though this web-app serves as a basic time table generator, there is a lot more which could be done to make this project even better in terms of consideration of soft constraints like professor giving preference to particular class.
 
-  ### Further Work
-    •	Though this web-app serves as a basic time table generator, there is a lot more which could be done to make this project even better in terms of consideration of soft constraints like professor giving preference to particular class.
+•	The up-gradations I look up to currently will be Classroom size considerations, lab facility consideration and multiple subject selection for faculty. I will try to bring the following up-gradations very soon.
 
-    •	The up-gradations I look up to currently will be Classroom size considerations, lab facility consideration and multiple subject selection for faculty. I will try to bring the following up-gradations very soon.
-
-    •	More features such as schedule print for individual faculty etc. would also be involved to make this more useful as a final product.
+•	More features such as schedule print for individual faculty etc. would also be involved to make this more useful as a final product.
 
 
 ## Author 
