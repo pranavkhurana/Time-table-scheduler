@@ -79,5 +79,17 @@ You need to load the required jar files to make this project run
   * CSS
   * MySQL (database)
   
+## Test Run
+
+  ### Input
+  
+  <img src="/readme-images/input1.png" alt="input1">
+  <img src="/readme-images/input2.png" alt="input2">
+  > Input form is made using Ajax and displays as many fields as the no specified.
+  
+  ### Output
+  <img src="/readme-images/output1.png" alt="out1">
+  <img src="/readme-images/output2.png" alt="out2">
+  
 ## Author 
 **Pranav Khurana**
