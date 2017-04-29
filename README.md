@@ -1,4 +1,4 @@
-<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b> (Using Genetic Algorithms)</h1>
+<div align="center"><h1><b>AUTOMATED TIME-TABLE SCHEDULER</b><br> (Using Genetic Algorithms)</h1>
 
 <img alt="preview" src="/readme-images/preview.png" width="65%"></div>
 
