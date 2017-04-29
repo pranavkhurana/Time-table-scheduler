@@ -122,4 +122,5 @@ Using Genetics Algorithm, a number of trade-off solutions, in terms of multiple 
 
 **Pranav Khurana**
 
-PS: Documentation (in pdf) is available at root folder as AutomatedTimeTableScheduler.pdf
+
+<i>PS: Documentation (in pdf) is available at root folder as AutomatedTimeTableScheduler.pdf</i>
