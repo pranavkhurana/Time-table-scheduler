@@ -71,12 +71,13 @@ You need to load the required jar files to make this project run
 
   * [Struts](https://struts.apache.org/) - The web framework used
   * [Bootstrap](http://getbootstrap.com) - Mobile first Frontend Framework
+  * JSP
+  * Servlets
   * Ajax
   * JavaScript
   * HTML
   * CSS
-
-
-## Authors
-
-* **Pranav Khurana**
+  * MySQL (database)
+  
+## Author 
+**Pranav Khurana**
